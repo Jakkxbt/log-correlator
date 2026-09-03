@@ -1,4 +1,19 @@
-# log-correlator
+<p align="center">
+  <img src="assets/banner.png" alt="CobraSEC · Blue Arsenal · log-correlator" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CobraSEC-Blue_Arsenal-22d3ee?style=for-the-badge&labelColor=0a0f1a">
+  <img src="https://img.shields.io/badge/License-MIT-38bdf8?style=for-the-badge&labelColor=0a0f1a">
+  <img src="https://img.shields.io/badge/Python-3.x-7dd3fc?style=for-the-badge&labelColor=0a0f1a">
+  <img src="https://img.shields.io/badge/Status-Active-16a34a?style=for-the-badge&labelColor=0a0f1a">
+</p>
+
+<h1 align="center">log-correlator</h1>
+<p align="center"><b>Stateful multi-source log correlation</b><br><sub><i>CobraSEC · Attack in order to Defend.</i></sub></p>
+
+---
+
 
 Ingests auth.log / syslog / kern.log / dmesg and applies stateful
 correlation rules to chain events into actionable alerts:
